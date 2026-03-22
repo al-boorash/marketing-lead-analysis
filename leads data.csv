@@ -1,0 +1,5 @@
+id,lead_source,campaign_id,lead_quality,converted,timestamp
+1,Facebook,FB_01,High,1,2026-03-01
+2,Google_Ads,GA_05,Low,0,2026-03-01
+3,LinkedIn,LI_09,High,1,2026-03-02
+4,Facebook,FB_01,Medium,0,2026-03-02
